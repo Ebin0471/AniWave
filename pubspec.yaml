@@ -1,0 +1,14 @@
+name: aniwave
+description: A clean anime app with glass UI
+
+environment:
+  sdk: ">=2.17.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_fonts: ^6.1.0
+  liquid_swipe: ^3.0.0
+
+flutter:
+  uses-material-design: true
